@@ -1,6 +1,6 @@
 # RDI 血管分割
 
-本项目旨在对 RDI（Retinal Digital Imaging）图像中的血管进行分割，重点关注红色血管、蓝色血管以及粗细血管的分割。  
+本目录旨在对 RDI（Retinal Digital Imaging）图像中的血管进行分割，重点关注红色血管、蓝色血管以及粗细血管的分割。  
 
 ## 结论
 
